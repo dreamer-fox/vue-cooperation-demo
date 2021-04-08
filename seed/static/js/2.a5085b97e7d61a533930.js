@@ -1,0 +1,2 @@
+webpackJsonp([2],{wqBO:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"GlobalTable"},[this._v("\n    "+this._s(this.msg)+"\n")])},staticRenderFns:[]};var s=n("C7Lr")({name:"GlobalTable",data:function(){return{msg:"GlobalTable"}},mounted:function(){},computed:{},methods:{}},a,!1,function(e){n("yEDe")},"data-v-521b0a3f",null);t.default=s.exports},yEDe:function(e,t){}});
+//# sourceMappingURL=2.a5085b97e7d61a533930.js.map
